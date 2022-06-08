@@ -631,6 +631,7 @@
     position: absolute;
     bottom: 7%;
     right: 0px;
+    padding-bottom: 80px;
   }
 
   .cta-one__moc {
@@ -647,5 +648,11 @@
     right: 0px;
     -webkit-animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
     animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
+  }
+
+  .banner-one__title {
+    font-weight: 300;
+    font-size: 80px;
+    width: 80%;
   }
 }
